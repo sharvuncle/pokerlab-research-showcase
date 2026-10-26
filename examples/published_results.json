@@ -1,0 +1,1008 @@
+{
+  "provenance": "Reviewed aggregate results from completed experiments. No raw histories, weights or private Git history included.",
+  "toy_convergence": {
+    "kuhn": [
+      {
+        "seed": 1807,
+        "iterations": 1,
+        "nash_conv": 0.8505312799139675,
+        "exploitability": 0.42526563995698374
+      },
+      {
+        "seed": 1807,
+        "iterations": 10,
+        "nash_conv": 0.20130644414691237,
+        "exploitability": 0.10065322207345619
+      },
+      {
+        "seed": 1807,
+        "iterations": 100,
+        "nash_conv": 0.05110605944624977,
+        "exploitability": 0.025553029723124884
+      },
+      {
+        "seed": 1807,
+        "iterations": 1000,
+        "nash_conv": 0.014594950356454639,
+        "exploitability": 0.0072974751782273195
+      },
+      {
+        "seed": 1807,
+        "iterations": 10000,
+        "nash_conv": 0.004664818048630587,
+        "exploitability": 0.0023324090243152934
+      },
+      {
+        "seed": 1807,
+        "iterations": 20000,
+        "nash_conv": 0.003272870777828618,
+        "exploitability": 0.001636435388914309
+      },
+      {
+        "seed": 1829,
+        "iterations": 1,
+        "nash_conv": 0.8710800795852651,
+        "exploitability": 0.43554003979263256
+      },
+      {
+        "seed": 1829,
+        "iterations": 10,
+        "nash_conv": 0.19391823376500292,
+        "exploitability": 0.09695911688250146
+      },
+      {
+        "seed": 1829,
+        "iterations": 100,
+        "nash_conv": 0.04991660019666369,
+        "exploitability": 0.024958300098331845
+      },
+      {
+        "seed": 1829,
+        "iterations": 1000,
+        "nash_conv": 0.014540426437957471,
+        "exploitability": 0.0072702132189787355
+      },
+      {
+        "seed": 1829,
+        "iterations": 10000,
+        "nash_conv": 0.004650393622371074,
+        "exploitability": 0.002325196811185537
+      },
+      {
+        "seed": 1829,
+        "iterations": 20000,
+        "nash_conv": 0.0032665509107160096,
+        "exploitability": 0.0016332754553580048
+      },
+      {
+        "seed": 1843,
+        "iterations": 1,
+        "nash_conv": 0.998869182458265,
+        "exploitability": 0.4994345912291325
+      },
+      {
+        "seed": 1843,
+        "iterations": 10,
+        "nash_conv": 0.208475224810184,
+        "exploitability": 0.104237612405092
+      },
+      {
+        "seed": 1843,
+        "iterations": 100,
+        "nash_conv": 0.05404292933325855,
+        "exploitability": 0.027021464666629275
+      },
+      {
+        "seed": 1843,
+        "iterations": 1000,
+        "nash_conv": 0.015211302403545263,
+        "exploitability": 0.007605651201772631
+      },
+      {
+        "seed": 1843,
+        "iterations": 10000,
+        "nash_conv": 0.004528307321581909,
+        "exploitability": 0.0022641536607909546
+      },
+      {
+        "seed": 1843,
+        "iterations": 20000,
+        "nash_conv": 0.003212823206486304,
+        "exploitability": 0.001606411603243152
+      }
+    ],
+    "leduc": [
+      {
+        "seed": 1807,
+        "iterations": 1,
+        "nash_conv": 4.894498693352409,
+        "exploitability": 2.4472493466762044
+      },
+      {
+        "seed": 1807,
+        "iterations": 10,
+        "nash_conv": 2.021571108228719,
+        "exploitability": 1.0107855541143596
+      },
+      {
+        "seed": 1807,
+        "iterations": 100,
+        "nash_conv": 0.35126605571182146,
+        "exploitability": 0.17563302785591073
+      },
+      {
+        "seed": 1807,
+        "iterations": 1000,
+        "nash_conv": 0.0806290721804425,
+        "exploitability": 0.04031453609022125
+      },
+      {
+        "seed": 1807,
+        "iterations": 5000,
+        "nash_conv": 0.031212766850457527,
+        "exploitability": 0.015606383425228763
+      },
+      {
+        "seed": 1807,
+        "iterations": 10000,
+        "nash_conv": 0.02139494610457686,
+        "exploitability": 0.01069747305228843
+      },
+      {
+        "seed": 1807,
+        "iterations": 20000,
+        "nash_conv": 0.014101003116287827,
+        "exploitability": 0.007050501558143914
+      },
+      {
+        "seed": 1829,
+        "iterations": 1,
+        "nash_conv": 5.326283788936685,
+        "exploitability": 2.6631418944683425
+      },
+      {
+        "seed": 1829,
+        "iterations": 10,
+        "nash_conv": 2.339213446146286,
+        "exploitability": 1.169606723073143
+      },
+      {
+        "seed": 1829,
+        "iterations": 100,
+        "nash_conv": 0.37764662326326076,
+        "exploitability": 0.18882331163163038
+      },
+      {
+        "seed": 1829,
+        "iterations": 1000,
+        "nash_conv": 0.08046516481109219,
+        "exploitability": 0.04023258240554609
+      },
+      {
+        "seed": 1829,
+        "iterations": 5000,
+        "nash_conv": 0.03104095004246163,
+        "exploitability": 0.015520475021230815
+      },
+      {
+        "seed": 1829,
+        "iterations": 10000,
+        "nash_conv": 0.020517907810270603,
+        "exploitability": 0.010258953905135301
+      },
+      {
+        "seed": 1829,
+        "iterations": 20000,
+        "nash_conv": 0.015466431530837876,
+        "exploitability": 0.007733215765418938
+      },
+      {
+        "seed": 1843,
+        "iterations": 1,
+        "nash_conv": 5.833026714770276,
+        "exploitability": 2.916513357385138
+      },
+      {
+        "seed": 1843,
+        "iterations": 10,
+        "nash_conv": 2.5064387960083945,
+        "exploitability": 1.2532193980041972
+      },
+      {
+        "seed": 1843,
+        "iterations": 100,
+        "nash_conv": 0.37587164208272317,
+        "exploitability": 0.18793582104136158
+      },
+      {
+        "seed": 1843,
+        "iterations": 1000,
+        "nash_conv": 0.0764425455849638,
+        "exploitability": 0.0382212727924819
+      },
+      {
+        "seed": 1843,
+        "iterations": 5000,
+        "nash_conv": 0.03347280310093606,
+        "exploitability": 0.01673640155046803
+      },
+      {
+        "seed": 1843,
+        "iterations": 10000,
+        "nash_conv": 0.021948938181189148,
+        "exploitability": 0.010974469090594574
+      },
+      {
+        "seed": 1843,
+        "iterations": 20000,
+        "nash_conv": 0.014132383594382167,
+        "exploitability": 0.007066191797191083
+      }
+    ]
+  },
+  "nlhe_v21": {
+    "policy_hands": 52800,
+    "matched_initial_deals": 26400,
+    "independent_global_seed_blocks": 10,
+    "interval": "two-sided Student t95 on whole global-seed-block macro differences",
+    "comparisons": [
+      {
+        "group": "all",
+        "reference_bb100": 71.58143939393939,
+        "candidate_bb100": 99.99810606060606,
+        "delta_bb100": 28.416666666666668,
+        "paired_t95": [
+          19.98689532450985,
+          36.84643800882348
+        ],
+        "whole_seed_block_deltas": [
+          26.40151515151517,
+          27.689393939393938,
+          24.261363636363647,
+          15.321969696969695,
+          13.901515151515156,
+          54.81060606060606,
+          40.227272727272734,
+          27.196969696969717,
+          25.587121212121133,
+          28.768939393939412
+        ]
+      },
+      {
+        "group": "2",
+        "reference_bb100": 120.51136363636365,
+        "candidate_bb100": 132.01704545454547,
+        "delta_bb100": 11.505681818181822,
+        "paired_t95": [
+          -1.445462937990472,
+          24.456826574354118
+        ],
+        "whole_seed_block_deltas": [
+          -3.693181818181813,
+          19.412878787878753,
+          16.666666666666643,
+          14.962121212121225,
+          48.579545454545524,
+          23.768939393939377,
+          5.776515151515152,
+          -6.060606060606048,
+          11.553030303030312,
+          -15.909090909090907
+        ]
+      },
+      {
+        "group": "3",
+        "reference_bb100": 163.63636363636363,
+        "candidate_bb100": 195.81439393939394,
+        "delta_bb100": 32.178030303030326,
+        "paired_t95": [
+          21.284724876703983,
+          43.07133572935667
+        ],
+        "whole_seed_block_deltas": [
+          27.840909090909065,
+          32.67045454545456,
+          49.81060606060612,
+          16.761363636363647,
+          1.7992424242424079,
+          32.00757575757575,
+          41.76136363636374,
+          39.29924242424241,
+          52.84090909090912,
+          26.98863636363638
+        ]
+      },
+      {
+        "group": "4",
+        "reference_bb100": 46.979166666666664,
+        "candidate_bb100": 72.14015151515152,
+        "delta_bb100": 25.16098484848485,
+        "paired_t95": [
+          8.424974811496686,
+          41.89699488547302
+        ],
+        "whole_seed_block_deltas": [
+          42.70833333333333,
+          44.50757575757577,
+          -3.882575757575779,
+          -20.928030303030308,
+          20.454545454545496,
+          54.45075757575755,
+          27.935606060606034,
+          37.87878787878793,
+          13.636363636363626,
+          34.848484848484865
+        ]
+      },
+      {
+        "group": "5",
+        "reference_bb100": 15.890151515151516,
+        "candidate_bb100": 54.469696969696976,
+        "delta_bb100": 38.57954545454545,
+        "paired_t95": [
+          18.065216728579625,
+          59.09387418051128
+        ],
+        "whole_seed_block_deltas": [
+          24.431818181818187,
+          40.814393939393966,
+          49.71590909090907,
+          44.31818181818181,
+          -14.299242424242413,
+          35.03787878787878,
+          71.5909090909091,
+          2.8409090909090935,
+          51.609848484848484,
+          79.73484848484847
+        ]
+      },
+      {
+        "group": "6",
+        "reference_bb100": 10.890151515151516,
+        "candidate_bb100": 45.54924242424242,
+        "delta_bb100": 34.659090909090914,
+        "paired_t95": [
+          6.395852010453758,
+          62.92232980772807
+        ],
+        "whole_seed_block_deltas": [
+          40.719696969696976,
+          1.0416666666666643,
+          8.996212121212125,
+          21.496212121212125,
+          12.973484848484855,
+          128.7878787878788,
+          54.071969696969695,
+          62.02651515151516,
+          -1.7045454545454533,
+          18.181818181818187
+        ]
+      },
+      {
+        "group": "aggressive",
+        "reference_bb100": 188.4375,
+        "candidate_bb100": 214.77083333333331,
+        "delta_bb100": 26.333333333333332,
+        "paired_t95": [
+          -14.178967458309327,
+          66.84563412497599
+        ],
+        "whole_seed_block_deltas": [
+          -28.33333333333337,
+          -45.0,
+          82.70833333333331,
+          49.58333333333337,
+          -16.875000000000014,
+          143.5416666666666,
+          11.458333333333314,
+          18.333333333333314,
+          48.125000000000114,
+          -0.20833333333332593
+        ]
+      },
+      {
+        "group": "bluffer",
+        "reference_bb100": 173.89583333333331,
+        "candidate_bb100": 188.1875,
+        "delta_bb100": 14.291666666666671,
+        "paired_t95": [
+          -18.78390691402719,
+          47.367240247360535
+        ],
+        "whole_seed_block_deltas": [
+          -3.333333333333286,
+          -32.70833333333334,
+          28.333333333333357,
+          -34.375,
+          -10.833333333333314,
+          32.29166666666663,
+          -4.166666666666686,
+          100.41666666666667,
+          -14.791666666666686,
+          82.08333333333337
+        ]
+      },
+      {
+        "group": "draw_pressure_v21",
+        "reference_bb100": 87.06249999999999,
+        "candidate_bb100": 122.04166666666667,
+        "delta_bb100": 34.97916666666667,
+        "paired_t95": [
+          13.240768046900602,
+          56.717565286432745
+        ],
+        "whole_seed_block_deltas": [
+          -13.958333333333336,
+          52.500000000000014,
+          31.666666666666686,
+          44.37499999999999,
+          22.916666666666686,
+          42.70833333333333,
+          34.58333333333334,
+          102.70833333333334,
+          14.166666666666629,
+          18.124999999999986
+        ]
+      },
+      {
+        "group": "old15",
+        "reference_bb100": 18.604166666666664,
+        "candidate_bb100": 31.916666666666664,
+        "delta_bb100": 13.3125,
+        "paired_t95": [
+          10.199456401887186,
+          16.425543598112814
+        ],
+        "whole_seed_block_deltas": [
+          10.833333333333336,
+          16.041666666666668,
+          21.04166666666667,
+          11.874999999999993,
+          10.0,
+          15.208333333333334,
+          11.041666666666668,
+          17.708333333333332,
+          5.833333333333336,
+          13.541666666666671
+        ]
+      },
+      {
+        "group": "pot_control_v15",
+        "reference_bb100": 52.5625,
+        "candidate_bb100": 83.91666666666666,
+        "delta_bb100": 31.354166666666668,
+        "paired_t95": [
+          3.3425178939450895,
+          59.36581543938824
+        ],
+        "whole_seed_block_deltas": [
+          56.45833333333333,
+          24.375,
+          47.70833333333333,
+          20.20833333333333,
+          -33.541666666666686,
+          17.70833333333334,
+          84.16666666666666,
+          73.54166666666669,
+          -27.083333333333314,
+          50.0
+        ]
+      },
+      {
+        "group": "range_guard_v21",
+        "reference_bb100": 34.375,
+        "candidate_bb100": 52.52083333333333,
+        "delta_bb100": 18.145833333333336,
+        "paired_t95": [
+          -6.61158708919449,
+          42.90325375586116
+        ],
+        "whole_seed_block_deltas": [
+          10.625,
+          28.33333333333333,
+          -20.625,
+          -0.6250000000000018,
+          8.750000000000027,
+          53.125000000000014,
+          44.16666666666664,
+          -45.208333333333336,
+          67.91666666666666,
+          35.0
+        ]
+      },
+      {
+        "group": "rank_draw",
+        "reference_bb100": -22.83333333333333,
+        "candidate_bb100": -7.229166666666666,
+        "delta_bb100": 15.604166666666668,
+        "paired_t95": [
+          -2.320066672289588,
+          33.52840000562293
+        ],
+        "whole_seed_block_deltas": [
+          8.54166666666666,
+          -9.583333333333336,
+          37.91666666666666,
+          -15.625,
+          21.458333333333336,
+          7.083333333333343,
+          55.83333333333333,
+          -9.583333333333329,
+          48.95833333333334,
+          11.041666666666675
+        ]
+      },
+      {
+        "group": "reference",
+        "reference_bb100": 4.416666666666666,
+        "candidate_bb100": 23.229166666666664,
+        "delta_bb100": 18.8125,
+        "paired_t95": [
+          4.293379160546056,
+          33.33162083945395
+        ],
+        "whole_seed_block_deltas": [
+          20.625000000000004,
+          23.33333333333333,
+          53.541666666666664,
+          -16.666666666666664,
+          37.083333333333336,
+          22.708333333333336,
+          20.416666666666657,
+          28.125000000000014,
+          3.541666666666668,
+          -4.583333333333329
+        ]
+      },
+      {
+        "group": "station",
+        "reference_bb100": 111.39583333333333,
+        "candidate_bb100": 205.625,
+        "delta_bb100": 94.22916666666666,
+        "paired_t95": [
+          46.57768544922484,
+          141.88064788410847
+        ],
+        "whole_seed_block_deltas": [
+          211.875,
+          48.541666666666686,
+          -3.9583333333333712,
+          49.583333333333314,
+          95.62499999999994,
+          196.24999999999997,
+          113.54166666666666,
+          55.624999999999986,
+          85.20833333333334,
+          89.99999999999999
+        ]
+      },
+      {
+        "group": "switch_v21",
+        "reference_bb100": 111.08333333333333,
+        "candidate_bb100": 139.83333333333334,
+        "delta_bb100": 28.750000000000007,
+        "paired_t95": [
+          -1.2680758871701698,
+          58.768075887170184
+        ],
+        "whole_seed_block_deltas": [
+          -11.249999999999986,
+          106.45833333333331,
+          4.166666666666693,
+          60.00000000000003,
+          10.833333333333329,
+          16.04166666666668,
+          78.75,
+          -27.708333333333314,
+          39.79166666666666,
+          10.416666666666664
+        ]
+      },
+      {
+        "group": "tight",
+        "reference_bb100": 28.395833333333336,
+        "candidate_bb100": 45.166666666666664,
+        "delta_bb100": 16.770833333333332,
+        "paired_t95": [
+          -7.619205887473214,
+          41.16087255413988
+        ],
+        "whole_seed_block_deltas": [
+          28.333333333333314,
+          92.29166666666669,
+          -15.625,
+          0.20833333333333282,
+          7.5000000000000036,
+          56.25,
+          -7.291666666666668,
+          -14.791666666666666,
+          9.791666666666657,
+          11.041666666666664
+        ]
+      },
+      {
+        "group": "equal",
+        "reference_bb100": 95.51136363636364,
+        "candidate_bb100": 131.1590909090909,
+        "delta_bb100": 35.647727272727266,
+        "paired_t95": [
+          24.513236345965154,
+          46.78221819948938
+        ],
+        "whole_seed_block_deltas": [
+          40.34090909090908,
+          13.598484848484816,
+          34.01515151515151,
+          32.121212121212125,
+          16.931818181818215,
+          68.48484848484847,
+          48.181818181818215,
+          33.10606060606063,
+          40.49242424242419,
+          29.20454545454544
+        ]
+      },
+      {
+        "group": "unequal",
+        "reference_bb100": 47.651515151515156,
+        "candidate_bb100": 68.83712121212122,
+        "delta_bb100": 21.185606060606055,
+        "paired_t95": [
+          10.937103029756322,
+          31.434109091455788
+        ],
+        "whole_seed_block_deltas": [
+          12.462121212121222,
+          41.780303030303024,
+          14.50757575757575,
+          -1.4772727272727328,
+          10.871212121212125,
+          41.13636363636362,
+          32.272727272727266,
+          21.287878787878796,
+          10.681818181818159,
+          28.333333333333343
+        ]
+      }
+    ],
+    "behavior_and_risk": [
+      {
+        "policy": "aggression",
+        "group": "all",
+        "counts": {
+          "decisions": 50092,
+          "raise": 2320,
+          "raise_opportunities": 46935,
+          "raises_when_legal": 5687,
+          "changed": 2605,
+          "facing_bet_opportunities": 27742,
+          "fold_when_facing": 16701,
+          "check_opportunities": 22350,
+          "fold_when_check_legal": 0,
+          "unopened_opportunities": 12198,
+          "unopened_raises": 1723,
+          "three_bet_opportunities": 3782,
+          "three_bet_raises": 64,
+          "value_bet_opportunities": 3363,
+          "value_bet_raises": 2125,
+          "bluff_opportunities": 1464,
+          "bluff_raises": 141,
+          "preflop_decisions": 25753,
+          "preflop_raise": 1982,
+          "premium_decisions": 831,
+          "premium_fold_or_check": 71,
+          "premium_folds": 63,
+          "preflop_raise_opportunities": 23775,
+          "preflop_raises_when_legal": 1982,
+          "transition_call_to_raise": 1238,
+          "call": 8833,
+          "bet": 3367,
+          "hands": 26400,
+          "VPIP_hands": 6797,
+          "PFR_hands": 1977,
+          "full_stack_losses": 375,
+          "large_pot_losses": 727,
+          "fold": 16701,
+          "preflop_fold": 14921,
+          "preflop_call": 5936,
+          "check": 18871,
+          "preflop_check": 2914,
+          "transition_check_to_bet": 614,
+          "transition_check_to_raise": 79,
+          "transition_fold_to_call": 59,
+          "transition_fold_to_raise": 615
+        },
+        "rates": {
+          "PFR": 0.07488636363636364,
+          "VPIP": 0.2574621212121212,
+          "preflop_decision_raise_rate": 0.07696190735059993,
+          "fold_when_facing": 0.6020113906711845,
+          "fold_when_check_legal": 0.0,
+          "unopened_raise_rate": 0.1412526643712084,
+          "three_bet_rate": 0.016922263352723427,
+          "legal_raise_opportunity_rate": 0.12116757217428359,
+          "preflop_legal_raise_opportunity_rate": 0.08336487907465825,
+          "value_proxy_bet_rate": 0.631876300921796,
+          "draw_proxy_bet_rate": 0.09631147540983606,
+          "premium_fold_decision_rate": 0.07581227436823104,
+          "full_stack_loss_rate": 0.014204545454545454,
+          "large_pot_loss_rate": 0.027537878787878788
+        }
+      },
+      {
+        "policy": "aggression",
+        "group": "6",
+        "counts": {
+          "decisions": 6409,
+          "fold": 4637,
+          "raise_opportunities": 5894,
+          "raises_when_legal": 332,
+          "changed": 326,
+          "facing_bet_opportunities": 5128,
+          "fold_when_facing": 4637,
+          "check_opportunities": 1281,
+          "fold_when_check_legal": 0,
+          "unopened_opportunities": 2227,
+          "unopened_raises": 181,
+          "three_bet_opportunities": 744,
+          "three_bet_raises": 17,
+          "value_bet_opportunities": 187,
+          "value_bet_raises": 87,
+          "bluff_opportunities": 64,
+          "bluff_raises": 1,
+          "preflop_decisions": 5143,
+          "preflop_fold": 4485,
+          "premium_decisions": 178,
+          "premium_fold_or_check": 24,
+          "premium_folds": 24,
+          "hands": 5280,
+          "VPIP_hands": 362,
+          "PFR_hands": 230,
+          "full_stack_losses": 15,
+          "large_pot_losses": 35,
+          "raise": 231,
+          "preflop_raise": 230,
+          "preflop_raise_opportunities": 4674,
+          "preflop_raises_when_legal": 230,
+          "transition_fold_to_raise": 170,
+          "call": 272,
+          "preflop_call": 183,
+          "transition_fold_to_call": 31,
+          "check": 1168,
+          "bet": 101,
+          "preflop_check": 245,
+          "transition_call_to_raise": 48,
+          "transition_check_to_bet": 65,
+          "transition_check_to_raise": 12
+        },
+        "rates": {
+          "PFR": 0.043560606060606064,
+          "VPIP": 0.06856060606060606,
+          "preflop_decision_raise_rate": 0.04472097997277853,
+          "fold_when_facing": 0.9042511700468019,
+          "fold_when_check_legal": 0.0,
+          "unopened_raise_rate": 0.081275258194881,
+          "three_bet_rate": 0.0228494623655914,
+          "legal_raise_opportunity_rate": 0.05632846963013234,
+          "preflop_legal_raise_opportunity_rate": 0.04920838682071031,
+          "value_proxy_bet_rate": 0.46524064171123,
+          "draw_proxy_bet_rate": 0.015625,
+          "premium_fold_decision_rate": 0.1348314606741573,
+          "full_stack_loss_rate": 0.002840909090909091,
+          "large_pot_loss_rate": 0.006628787878787879
+        }
+      },
+      {
+        "policy": "reference",
+        "group": "all",
+        "counts": {
+          "decisions": 50999,
+          "call": 9949,
+          "raise_opportunities": 47975,
+          "raises_when_legal": 3471,
+          "changed": 0,
+          "facing_bet_opportunities": 27623,
+          "fold_when_facing": 17283,
+          "check_opportunities": 23376,
+          "fold_when_check_legal": 0,
+          "unopened_opportunities": 12195,
+          "unopened_raises": 10,
+          "three_bet_opportunities": 3951,
+          "three_bet_raises": 3,
+          "value_bet_opportunities": 3689,
+          "value_bet_raises": 1658,
+          "bluff_opportunities": 1496,
+          "bluff_raises": 147,
+          "preflop_decisions": 25525,
+          "preflop_call": 7014,
+          "premium_decisions": 723,
+          "premium_fold_or_check": 264,
+          "premium_folds": 200,
+          "preflop_raise_opportunities": 23637,
+          "preflop_raises_when_legal": 48,
+          "bet": 3047,
+          "hands": 26400,
+          "VPIP_hands": 6101,
+          "PFR_hands": 46,
+          "full_stack_losses": 328,
+          "large_pot_losses": 621,
+          "fold": 17283,
+          "preflop_fold": 15474,
+          "check": 20296,
+          "preflop_check": 2989,
+          "raise": 424,
+          "preflop_raise": 48
+        },
+        "rates": {
+          "PFR": 0.0017424242424242424,
+          "VPIP": 0.23109848484848486,
+          "preflop_decision_raise_rate": 0.00188050930460333,
+          "fold_when_facing": 0.6256742569597799,
+          "fold_when_check_legal": 0.0,
+          "unopened_raise_rate": 0.0008200082000820008,
+          "three_bet_rate": 0.0007593014426727411,
+          "legal_raise_opportunity_rate": 0.07235018238665972,
+          "preflop_legal_raise_opportunity_rate": 0.0020307145576849853,
+          "value_proxy_bet_rate": 0.44944429384657086,
+          "draw_proxy_bet_rate": 0.0982620320855615,
+          "premium_fold_decision_rate": 0.2766251728907331,
+          "full_stack_loss_rate": 0.012424242424242424,
+          "large_pot_loss_rate": 0.02352272727272727
+        }
+      },
+      {
+        "policy": "reference",
+        "group": "6",
+        "counts": {
+          "decisions": 6294,
+          "fold": 4796,
+          "raise_opportunities": 5814,
+          "raises_when_legal": 24,
+          "changed": 0,
+          "facing_bet_opportunities": 5040,
+          "fold_when_facing": 4796,
+          "check_opportunities": 1254,
+          "fold_when_check_legal": 0,
+          "unopened_opportunities": 2227,
+          "unopened_raises": 0,
+          "three_bet_opportunities": 747,
+          "three_bet_raises": 0,
+          "value_bet_opportunities": 186,
+          "value_bet_raises": 17,
+          "bluff_opportunities": 63,
+          "bluff_raises": 0,
+          "preflop_decisions": 5089,
+          "preflop_fold": 4653,
+          "premium_decisions": 139,
+          "premium_fold_or_check": 103,
+          "premium_folds": 94,
+          "hands": 5280,
+          "VPIP_hands": 164,
+          "PFR_hands": 0,
+          "full_stack_losses": 6,
+          "large_pot_losses": 14,
+          "preflop_raise_opportunities": 4644,
+          "preflop_raises_when_legal": 0,
+          "call": 244,
+          "preflop_call": 179,
+          "check": 1230,
+          "preflop_check": 257,
+          "bet": 24
+        },
+        "rates": {
+          "PFR": 0.0,
+          "VPIP": 0.03106060606060606,
+          "preflop_decision_raise_rate": 0.0,
+          "fold_when_facing": 0.9515873015873015,
+          "fold_when_check_legal": 0.0,
+          "unopened_raise_rate": 0.0,
+          "three_bet_rate": 0.0,
+          "legal_raise_opportunity_rate": 0.0041279669762641896,
+          "preflop_legal_raise_opportunity_rate": 0.0,
+          "value_proxy_bet_rate": 0.0913978494623656,
+          "draw_proxy_bet_rate": 0.0,
+          "premium_fold_decision_rate": 0.6762589928057554,
+          "full_stack_loss_rate": 0.0011363636363636363,
+          "large_pot_loss_rate": 0.0026515151515151517
+        }
+      }
+    ],
+    "risk_intervals": [
+      {
+        "group": "all",
+        "risk": "full_stack_losses",
+        "mean_rate_difference": 0.00178030303030303,
+        "whole_block_t95": [
+          0.0009134860551743183,
+          0.002647120005431742
+        ],
+        "not_a_promotion_criterion_change": true
+      },
+      {
+        "group": "all",
+        "risk": "large_pot_losses",
+        "mean_rate_difference": 0.004015151515151515,
+        "whole_block_t95": [
+          0.0029602673390277537,
+          0.005070035691275276
+        ],
+        "not_a_promotion_criterion_change": true
+      },
+      {
+        "group": "6",
+        "risk": "full_stack_losses",
+        "mean_rate_difference": 0.0017045454545454545,
+        "whole_block_t95": [
+          0.0007048547891674599,
+          0.0027042361199234493
+        ],
+        "not_a_promotion_criterion_change": true
+      },
+      {
+        "group": "6",
+        "risk": "large_pot_losses",
+        "mean_rate_difference": 0.003977272727272727,
+        "whole_block_t95": [
+          0.0021207043487135938,
+          0.00583384110583186
+        ],
+        "not_a_promotion_criterion_change": true
+      },
+      {
+        "group": "bluffer",
+        "risk": "full_stack_losses",
+        "mean_rate_difference": 0.003749999999999999,
+        "whole_block_t95": [
+          0.0015506805361684118,
+          0.005949319463831586
+        ],
+        "not_a_promotion_criterion_change": true
+      },
+      {
+        "group": "bluffer",
+        "risk": "large_pot_losses",
+        "mean_rate_difference": 0.006666666666666666,
+        "whole_block_t95": [
+          0.0026430907338901343,
+          0.010690242599443199
+        ],
+        "not_a_promotion_criterion_change": true
+      },
+      {
+        "group": "aggressive",
+        "risk": "full_stack_losses",
+        "mean_rate_difference": 0.004166666666666668,
+        "whole_block_t95": [
+          0.0004491382619376547,
+          0.007884195071395681
+        ],
+        "not_a_promotion_criterion_change": true
+      },
+      {
+        "group": "aggressive",
+        "risk": "large_pot_losses",
+        "mean_rate_difference": 0.006249999999999999,
+        "whole_block_t95": [
+          0.0033533252039164444,
+          0.009146674796083554
+        ],
+        "not_a_promotion_criterion_change": true
+      }
+    ],
+    "scope": "Controlled simulated opponents, independent reset-stack hands, no rake. Not human-level play or real-money profitability."
+  },
+  "neural_findings": {
+    "v19_all_state_leduc_capacity_exploitability": [
+      0.008901178063291708,
+      0.026408605,
+      0.017282313
+    ],
+    "heldout_and_online_regret_gates_failed": true,
+    "v21_PPO_training_hands": 3072,
+    "v21_PPO_seeds": [
+      2107,
+      2129
+    ],
+    "v21_PPO_stronger_policy_established": false
+  }
+}
