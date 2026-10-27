@@ -22,6 +22,10 @@ These NLHE results are against controlled simulated opponents, with reset stacks
 ![Verified CFR convergence](figures/cfr_convergence.svg)
 ![Matched NLHE improvement](figures/nlhe_improvement.svg)
 
+## v2.2 findings
+
+A historical-data audit and bounded new-table extension supported a fresh behavioral-model check. The new public-action predictor barely improved log loss; actor-card-aware simulated proxies did **not** establish human realism. Separate wider preflop and postflop aggression candidates changed chips by **−1.00** and **+1.07 bb/100** versus v2.1; neither passed its frozen improvement gate. No new RL model was trained or promoted. All 280 private tests passed, and the reserved final test remains unopened. [Complete sanitized v2.2 findings, intervals, risks and correction disclosure](docs/RESEARCH_V22_SUMMARY.md).
+
 ## Run the public example
 
 Python 3.11 was tested. No poker data, model weights, GPU or private repository is needed.
