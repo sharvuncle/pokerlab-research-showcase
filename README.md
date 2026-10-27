@@ -22,6 +22,10 @@ These NLHE results are against controlled simulated opponents, with reset stacks
 ![Verified CFR convergence](figures/cfr_convergence.svg)
 ![Matched NLHE improvement](figures/nlhe_improvement.svg)
 
+## v2.3 findings
+
+Context-level six-player diagnosis did not justify a general tactical correction. A bounded continuation study remained incomplete, and the actual guarded human-informed simulator **failed** its behavioral-fidelity gate. The v2.1 policy remains selected; no candidate tournament, policy training or RL was launched. All 288 private tests passed. A tested in-memory Arena interface prepares the next private play-money application; no website or live human playtest is available yet. [Sanitized v2.3 methods, negative results, budget limitation and Arena handoff](docs/RESEARCH_V23_SUMMARY.md).
+
 ## v2.2 findings
 
 A historical-data audit and bounded new-table extension supported a fresh behavioral-model check. The new public-action predictor barely improved log loss; actor-card-aware simulated proxies did **not** establish human realism. Separate wider preflop and postflop aggression candidates changed chips by **−1.00** and **+1.07 bb/100** versus v2.1; neither passed its frozen improvement gate. No new RL model was trained or promoted. All 280 private tests passed, and the reserved final test remains unopened. [Complete sanitized v2.2 findings, intervals, risks and correction disclosure](docs/RESEARCH_V22_SUMMARY.md).
